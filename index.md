@@ -17,7 +17,7 @@ entonces no es voto electrónico.
 ###  ¿Qué es una computadora?
 
 Cuando en la definición anterior indicamos "utilizar computadoras", es importante definir que es una computadora ya que
-reina cierta confusin entre legisladores, colaboradores e informáticos.
+reina cierta confusión entre legisladores, colaboradores e informáticos.
 
 Para la defensoría del pueblo de CABA, aparentemente una impresora no es una computadora.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr"><a href="https://twitter.com/beabusaniche">@beabusaniche</a> <a href="https://twitter.com/sanbor">@sanbor</a> no es una computadora, es una impresora, saludos cordiales.</p>&mdash; Defensoría CABA (@DefensoriaCABA) <a href="https://twitter.com/DefensoriaCABA/status/592382149254369281">April 26, 2015</a></blockquote>
