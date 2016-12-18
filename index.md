@@ -35,14 +35,14 @@ Cuando uno piensa en una computadora se imagina por lo general una computadora d
 
 Una computadora puede ser algo tan pequeño como un chip. Solamente tiene que cumplir con las siguientes condiciones:
 
-Una compuradora es un componente electrónico que **recibe** datos, los puede **procesar**, y los puede **devolver**. 
+Una compuradora es un componente electrónico que puede **recibir** una entrada, realizar un **proceso**, y puede **devolver** un resultado. 
 
 Hay muchos procesos que cuentan con estas tres etapas. Por ejemplo, un exprimidor de jugo.
 
 <a title="By User:JeLuF (Own work (own picture)) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALemonSqueezer.jpg"><img width="512" alt="LemonSqueezer" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LemonSqueezer.jpg/512px-LemonSqueezer.jpg"/></a>
 
 Sin embargo, el aspecto revolucionario de las computadoras es que **se puede modificar el proceso que realizan**.
-Esto permite que una computadora, instalando nuevo software, se le pueden modificar sus funcionalidades.
+Esto permite que una computadora, modificando su software, se le pueden modificar sus funcionalidades.
 
 Adelanto que este es uno de los aspectos problematicos de utilizar computadoras para el proceso de votación, ya que es
 difícil saber que software están corriendo exactamente.
